@@ -1,0 +1,4 @@
+#plasmo-shadow-container {
+    /*default is 2147483646*/
+    z-index: 999 !important;
+}
