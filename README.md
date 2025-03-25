@@ -1,7 +1,7 @@
 # Rift 🌌
 
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/yourname/rift/blob/main/LICENSE)
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/xxxxxxx?label=Chrome%20Store)](https://chrome.google.com/webstore/detail/ofbcjfffehocnhmoodafhhgjodjagmei)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ofbcjfffehocnhmoodafhhgjodjagmei?label=Chrome%20Store)](https://chrome.google.com/webstore/detail/ofbcjfffehocnhmoodafhhgjodjagmei)
 ![V3 Manifest Ready](https://img.shields.io/badge/Manifest-V3-blueviolet?logo=googlechrome)
 
 **「那些不愿加空格的人，终将被字符的诅咒吞噬。」**
@@ -50,7 +50,7 @@ Rift 便是根据李教授的手稿复原的算法，它将：
 **开发者请自虐：**
 
 ```bash
-git clone https://github.com/yourname/rift.git
+git clone https://github.com/cong1223/rift.git
 cd rift
 npm install
 npm run build # 生成能切开混沌的利刃
