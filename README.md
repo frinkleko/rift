@@ -1,7 +1,7 @@
 # Rift 🌌
 
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/yourname/rift/blob/main/LICENSE)
-[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/xxxxxxx?label=Chrome%20Store)](https://chrome.google.com/webstore/detail/your-extension-id)
+[![Chrome Web Store](https://img.shields.io/chrome-web-store/v/xxxxxxx?label=Chrome%20Store)](https://chrome.google.com/webstore/detail/ofbcjfffehocnhmoodafhhgjodjagmei)
 ![V3 Manifest Ready](https://img.shields.io/badge/Manifest-V3-blueviolet?logo=googlechrome)
 
 **「那些不愿加空格的人，终将被字符的诅咒吞噬。」**
@@ -17,7 +17,7 @@
 
 Rift 便是根据李教授的手稿复原的算法，它将：
 1️⃣ 自动在中文字符与**半角英文/数字/符号**间插入银河系标准空白  
-2️⃣ 让你的眼神不再因粘连字符而扭曲成[痛苦面具](https://i.kym-cdn.com/photos/images/newsfeed/001/904/955/c7c.jpg)  
+2️⃣ 让你的眼神不再因粘连字符而扭曲成痛苦面具 
 3️⃣ **拯救那些因为不加空格而可能孤独终老的灵魂**
 
 ---
@@ -41,10 +41,9 @@ Rift 便是根据李教授的手稿复原的算法，它将：
 ---
 
 ## 安装仪式
-
 **Chrome 用户请服用：**
 
-1. 前往 [Chrome 商店](https://chrome.google.com/webstore/detail/your-extension-id)
+1. 前往 [Chrome 商店](https://chrome.google.com/webstore/detail/ofbcjfffehocnhmoodafhhgjodjagmei)
 2. 点击「这该死的按钮！立刻获得排版自由」
 3. 重启浏览器，感受世界逐渐被缝隙填满的快感
 
