@@ -3,6 +3,7 @@
 [![License](https://img.shields.io/badge/License-MIT-brightgreen.svg)](https://github.com/yourname/rift/blob/main/LICENSE)
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ofbcjfffehocnhmoodafhhgjodjagmei?label=Chrome%20Store)](https://chrome.google.com/webstore/detail/ofbcjfffehocnhmoodafhhgjodjagmei)
 ![V3 Manifest Ready](https://img.shields.io/badge/Manifest-V3-blueviolet?logo=googlechrome)
+![Firefox Ready](https://img.shields.io/badge/Firefox-Ready-orange?logo=firefox)
 
 **「那些不愿加空格的人，终将被字符的诅咒吞噬。」**
 
@@ -47,6 +48,20 @@ Rift 便是根据李教授的手稿复原的算法，它将：
 2. 点击「这该死的按钮！立刻获得排版自由」
 3. 重启浏览器，感受世界逐渐被缝隙填满的快感
 
+**Firefox 用户请服用：**
+
+**临时安装（重启后消失）：**
+1. 在下面的**开发者请自虐**章节中，生成 Firefox 版本的利刃
+2. 打开 Firefox，在地址栏输入 `about:debugging`
+3. 点击左侧的「此 Firefox」
+4. 点击「临时载入附加组件」
+5. 选择解压后的文件夹中的 `manifest.json`
+6. 享受排版自由（临时版本会在关闭浏览器后消失）
+
+**正式安装：**
+1. 等待扩展在 [Firefox 商店](https://addons.mozilla.org/) 上架
+2. 直接点击安装按钮即可
+
 **开发者请自虐：**
 
 ```bash
@@ -54,4 +69,5 @@ git clone https://github.com/cong1223/rift.git
 cd rift
 npm install
 npm run build # 生成能切开混沌的利刃
+npm run build:firefox # 生成 Firefox 版本的利刃
 ```

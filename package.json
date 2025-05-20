@@ -7,7 +7,9 @@
   "scripts": {
     "dev": "plasmo dev",
     "build": "plasmo build",
-    "package": "plasmo package"
+    "build:firefox": "plasmo build --target=firefox-mv2",
+    "package": "plasmo package",
+    "package:firefox": "plasmo package --target=firefox-mv2"
   },
   "dependencies": {
     "@ant-design/cssinjs": "^1.21.0",
@@ -34,6 +36,11 @@
   "manifest": {
     "host_permissions": [
       "https://*/*"
-    ]
+    ],
+    "browser_specific_settings": {
+      "gecko": {
+        "id": "rift-addon@goastwang0131.com"
+      }
+    }
   }
 }
